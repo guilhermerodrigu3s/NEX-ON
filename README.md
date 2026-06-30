@@ -51,7 +51,7 @@ Além do desenvolvimento da aplicação, o projeto teve como foco a aplicação 
 
 | Login | Perfil | Minhas Aulas |
 |-------|---------|--------------|
-| ![](./assets/login.png) | ![](./assets/perfil.png) | ![](./assets/aulas.png) |
+| ![](./assets/login.jpeg) | ![](./assets/perfil.jpeg) | ![](./assets/aulas.jpeg) |
 
 > *As imagens acima são ilustrativas e representam algumas das principais telas do aplicativo.*
 
